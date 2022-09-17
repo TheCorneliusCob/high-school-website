@@ -1,0 +1,22 @@
+body {
+  background: white;
+  font-style: oblique;
+}
+
+p {
+  color: black;
+  text-align: center
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center
+}
+
+h2 {
+  text-align: center
+}
+
+ol {
+  text-align: center
+}
